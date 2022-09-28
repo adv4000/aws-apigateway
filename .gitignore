@@ -1,0 +1,20 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.zip
+
+# MacOS Files
+*.DS_Store
+
+# Secure Certificates
+*.pem
+
+# VSCode files
+*.vscode/
+
+# PyCharm files
+.idea/
